@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.detailsCard:hover {
+  box-shadow: 0px 2px 10px 5px #888888;
+  font-size: 16px;
+}
+
+.inputDetails:hover {
+  font-size: 20px;
+  border: 2px solid skyblue;
+  box-shadow: 0px 2px 10px 5px #888888;
+}
+
+.submitButton:hover {
+  width: 150px;
+}
+
+.submitButton {
+  width: 100px;
+}
+
+.deleteButton:hover {
+  box-shadow: 0px 2px 10px 5px #888888;
+}
